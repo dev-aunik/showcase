@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'It is a system that connects users, merchants, and delivery workers on one platform. It also incorporates Android and iOS apps, making it a trendy system that enables real-time tracking and management from order to delivery.'=>'ユーザー・加盟店・配送員を一つのプラットフォームに結びつけるシステムです。Android とiOSのアプリも組込んであり、注文から届けるまでリアルタイム追跡管理できるトレンディなシステムです。',
+    'It is a system that connects users, merchants, and delivery workers on one platform. It also incorporates Android and iOS apps, making it a trendy system that enables real-time tracking and management from order to delivery.'=>'自動車業界向け販売・整備・受発注・在庫等の総合顧客管理システムです。様々な要求に合わせカスタマイズ可能です。サービス受ける側・提供する側双方へAndroid・iOSアプリ組合せることによって利便性もっと高める事が可能です。',
     'A solution that enables customer management in chronological order as an integral part of after-sales service from sales to the automobile industry. Functions such as customer management, reservation management, and content management are integrated.' => '自動車業界向け販売からアフターセールスサービス一貫として時系列で顧客管理ができるソリューション。顧客管理、予約管理、コンテンツ管理などの機能が統合されおります。',
     'It is an “issue tracking management system” that can be embedded with various systems. It is the ideal system for tracking sales, linking sales, and managing internal communications, starting with tracking products and services.' => '多様なシステムと組込み可能な”課題追跡管理システム”です。商品やサービスのトラッキングからはじめ、売上の紐づけや内部コミュニケーション管理に最適なシステムです。',
     'It is an EC platform developed by our company. It is a set of Android and iOS apps. Furthermore, it is a platform that can be used in a wide range of ways by integrating an inventory management system.' => '弊社開発のECプラットフォームです。AndroidとiOSのアプリのセットとなっております。さらに在庫管理システムを統合することによって広い幅で活用可能なプラットフォームです。',
