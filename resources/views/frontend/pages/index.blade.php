@@ -74,7 +74,7 @@
                                 <div class="content">
                                     <h3 class="title">Automotive Enterprise Management Solution</h3>
                                     <p>
-                                        {{__('messages.It is a system that connects users, merchants, and delivery workers on one platform. It also incorporates Android and iOS apps, making it a trendy system that enables real-time tracking and management from order to delivery.')}}
+                                        {{__('messages.A solution that enables customer management in chronological order as an integral part of after-sales service from sales to the automobile industry. Functions such as customer management, reservation management, and content management are integrated.')}}
                                     </p>
                                 </div>
                             </div>
